@@ -1,0 +1,6 @@
+number_of_shelvingteams 3 7
+number_of_employees 3 8
+shelf_threshold 1 5
+customer_arrival_range 7 13
+runtime 200 300
+customer_item_range 1 10

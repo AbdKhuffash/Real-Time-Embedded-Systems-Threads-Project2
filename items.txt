@@ -1,0 +1,17 @@
+milk 12 30 
+rice 10 50
+sugar 14 30 
+salt 10 40 
+oil 13 30 
+flour 16 35
+spaghetti 10 40
+butter 15 50
+chips 50 500
+chocolate 30 100
+ketchapp 17 70
+mayonnaise 12 50
+coffee 13 50
+tea 11 30 
+chickpeas 13 40
+Mushroom 15 40
+soda 15 30 
